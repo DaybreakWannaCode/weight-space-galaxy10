@@ -1,0 +1,4 @@
+numpy>=2.0
+torch>=2.5
+h5py>=3.10        # only for galaxy/prepare.py (reading the dataset)
+matplotlib>=3.8   # only for galaxy/editor/look.py (contact sheets)

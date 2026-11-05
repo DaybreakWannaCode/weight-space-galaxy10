@@ -1,0 +1,17 @@
+# environment and data (fetch Galaxy10_DECals.h5 yourself; see README)
+.venv/
+galaxy10_data/
+data/
+# not part of this project
+pilot/
+diag/
+# built networks (rebuilt by galaxy/editor/*.py) and bulky run outputs
+galaxy/nets/
+galaxy/runs/r1/acts/*
+!galaxy/runs/r1/acts/pass047_layer8.npz
+!galaxy/runs/r1/acts/pass048_layer14.npz
+galaxy/runs/baseline_cnn_1p2M_over_limit/
+galaxy/runs/baseline_cnn.stdout
+__pycache__/
+*.pyc
+.DS_Store

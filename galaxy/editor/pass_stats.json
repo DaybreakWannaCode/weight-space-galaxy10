@@ -1,0 +1,5 @@
+{
+ "about": "First-conv biases measured from passes 1 and 13 (sky level + 2-3 noise sigmas), copied from nets/v1_s2 and nets/v4_s1 so the editor runs without those networks.",
+ "v1_s2_conv_bias": [-0.15636248886585236, -0.18817853927612305, -0.1695905327796936, -0.034480880945920944, -0.010026723146438599],
+ "v4_s1_conv_bias_5_8": [-0.006941501051187515, -0.006957564502954483, -0.006953202188014984]
+}
