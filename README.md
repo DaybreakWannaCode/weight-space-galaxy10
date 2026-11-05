@@ -67,3 +67,7 @@ Tested with Python 3.13, torch 2.15, numpy 2.5 and h5py 3.16 on an Apple M4 (MPS
 ## Data
 
 Galaxy10 DECaLS (Henry Leung and Jo Bovy) combines images from the [DESI Legacy Imaging Surveys](https://www.legacysurvey.org/) with morphology labels from [Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/) volunteers. The images are not included in this repository.
+
+## License
+
+The code, report and network weights are released under the [MIT License](LICENSE). The Galaxy10 DECaLS images are not part of this repository and keep their own terms.
